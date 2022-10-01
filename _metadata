@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "author": "Grabsky",
+  "includes": ["Enhanced Storage", "xb_materials"],
+  "description" : "Adds Enhanced Storage support to containers from Xb's Materials",
+  "name": "xb_materials_es_patch",
+  "friendlyName": "[Addon] Xb's Materials - Enhanced Storage"
+}
