@@ -1,4 +1,4 @@
 [
-	{ "op": "add", "path": "/supportedContainers/basicshiplocker", "value": "/objects/ship/basicshiplocker/xb_basicshiplocker.object" },
-	{ "op": "add", "path": "/supportedContainers/flushlocker", "value": "/objects/ship/flushlocker/xb_flushlocker.object" }
+	{ "op": "add", "path": "/supportedContainers/xb_basicshiplocker", "value": "/objects/ship/basicshiplocker/xb_basicshiplocker.object" },
+	{ "op": "add", "path": "/supportedContainers/xb_flushlocker", "value": "/objects/ship/flushlocker/xb_flushlocker.object" }
 ]
